@@ -1,0 +1,3 @@
+[submodule "deps/meowser.cljs"]
+	path = deps/meowser.cljs
+	url = https://github.com/Meotaverse-Games/meowser.cljs.git
